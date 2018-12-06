@@ -15,8 +15,47 @@ Degree of Scope joins functionalities created from numerous long stretches of in
 Extension sent innovation to serve a creative open shopping planning framework. It gave add up to power over shopping costs including team and armada. The aggregate arrangement likewise advanced the timetable and required number of vehicles, while guaranteeing consistence with arranged course. Here all the customer easily can come to buy anything which is they want. If that are member customer they can get offer buying any product.
 
 
-## Built With
-Java OOP, mySQL Database
+## OS 
+  
+To create the software we are using Windows 10 Pro Version
+
+## Basic Software
+
+A software built using JavaFX library on the NetBeans 8.0.2 platform with MySQL server Login page linked to login database table In this system there cutomer,employee,Manager need to login first At first need to download
+
+Netbeans (Any verson)
+Eclips (Any Verson)
+Any database for storage this like as Mysql,Microsoft sql,Oracle
+At first Collecting this apllication then download this file without this application this installation file can not work so for installing this system need to update verson of these application.
+
+## Installing
+
+To installing this project in your computer to follow this step
+
+Contents: Installing NetBeans 6.x.x on Windows XP Pro SP2++ Exploring NetBeans 6.x.x Plugin Manager: Updating NetBeans and GlassFish V2 Web Server and Other Services NetBeans: GlassFish Web Administration Console NetBeans: Building and Running a Simple Java Program The machine specifications used in this task:
+
++Intel Pentium Core 2 Duo, 2.2 GHz, +Windows XP Pro SP2 + periodical patches + periodical updates… +2 GB DDR2 RAM. +160 GB SATA HDD. +17” SyncMaster 713N monitor.
+
+JDK 6 or JDK 5.0 is required for installing and running the NetBeans IDE. You can downloadstandalone JDK or download the latestJDK6 Update 6 with NetBeans IDE Java SE bundle. You can also download the NetBeans IDE as part of theJava EE 5 Tools Bundle orMySQL GlassFish Bundle. We already downloaded, installed and tested theJava JDK previously.
+
+For better Understanding Please follow the below of some Screenshot for how to install the netbeans to run run your project for this Screenshot please browsen 
+
+For MySql installation At first download the MySql software https://dev.mysql.com/downloads/installer/ Follow this link for install 
+
+## Deployment
+
+Software deployment is all of the activities that make a software system available for use. The general deployment process consists of several interrelated activities with possible transitions between them. These activities can occur at the producer side or at the consumer side or both.
+
+In my project we have the vestion of 1.0 initial. after using the softwer the customer will give a feedback. After Taken all requirment we will try to deployed the software for the next version. but now we are through the version 1.0 for the customer.But nest time we will do the work for the Deployment.
+
+## Build With
+Java JFrame
+Swing
+Used to generate RSS Feeds +JavaFX Libray
+Versioning
+We have only one Version Yet. that is Version 1.0.0 . After 3 month we will release Version 2.0.1
+
+
 
 ## Author
 Afrail Hossain
